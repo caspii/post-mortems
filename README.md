@@ -62,7 +62,7 @@
 
 [Heroku](https://blog.heroku.com/how-i-broke-git-push-heroku-main). An incorrect deployment process caused new config variables not to be used when the code required them.
 
-[Keepthescore](https://keepthescore.co/blog/posts/deleting_the_production_database/). Engineers deleted the production database by accident. Database is a managed database from DigitalOcean with backups once a day. 30 minutes after the disaster, it went back online, however 7 hours of scoreboard data was gone forever.
+[Keepthescore](https://casparwre.de/blog/deleting-the-production-database/). Engineers deleted the production database by accident. Database is a managed database from DigitalOcean with backups once a day. 30 minutes after the disaster, it went back online, however 7 hours of scoreboard data was gone forever.
 
 [Microsoft](https://azure.microsoft.com/blog/2014/11/19/update-on-azure-storage-service-interruption/). A bad config took down Azure storage.
 
